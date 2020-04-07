@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0354b28e-c519-4b8b-8d69-9653fdcb2303" name="Default Changelist" comment="" />
+    <list default="true" id="0354b28e-c519-4b8b-8d69-9653fdcb2303" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/adobe/program/leetcode/BestTimeToBuyAndSellStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adobe/program/leetcode/CountingElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adobe/program/leetcode/GroupAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adobe/program/leetcode/HappyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adobe/program/leetcode/MaximumSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adobe/program/leetcode/MoveZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adobe/program/leetcode/SingleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adobe/program/leetcodestudy/StringReverseUsingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +27,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1ZFKyxHPZURHU6mbhuWO9QU5bR6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,19 +42,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Spring-Security-OAuth2-MySQL-master/SampleProject" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/espn-client/site-product-apis-develop" />
     <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.LinkedListReverse">
-    <configuration name="ArrayPassByValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.adobe.program.example.ArrayPassByValue" />
+  <component name="RunManager" selected="Application.CountingElements">
+    <configuration name="BestTimeToBuyAndSellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.adobe.program.leetcode.BestTimeToBuyAndSellStock" />
       <module name="Adobe-Java-Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.adobe.program.example.*" />
+          <option name="PATTERN" value="com.adobe.program.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -48,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinaryTreeLeftView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.adobe.program.example.BinaryTreeLeftView" />
+    <configuration name="CountingElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.adobe.program.leetcode.CountingElements" />
       <module name="Adobe-Java-Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.adobe.program.example.*" />
+          <option name="PATTERN" value="com.adobe.program.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomParseInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.adobe.program.example.CustomParseInt" />
+    <configuration name="GroupAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.adobe.program.leetcode.GroupAnagrams" />
       <module name="Adobe-Java-Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.adobe.program.example.*" />
+          <option name="PATTERN" value="com.adobe.program.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindPairOfTwoNumberMatchGivenSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.adobe.program.example.FindPairOfTwoNumberMatchGivenSum" />
+    <configuration name="MoveZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.adobe.program.leetcode.MoveZeroes" />
       <module name="Adobe-Java-Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.adobe.program.example.*" />
+          <option name="PATTERN" value="com.adobe.program.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.adobe.program.example.LinkedListReverse" />
+    <configuration name="StringReverseUsingRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.adobe.program.leetcodestudy.StringReverseUsingRecursion" />
       <module name="Adobe-Java-Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.adobe.program.example.*" />
+          <option name="PATTERN" value="com.adobe.program.leetcodestudy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LinkedListReverse" />
-        <item itemvalue="Application.CustomParseInt" />
-        <item itemvalue="Application.FindPairOfTwoNumberMatchGivenSum" />
-        <item itemvalue="Application.BinaryTreeLeftView" />
-        <item itemvalue="Application.ArrayPassByValue" />
+        <item itemvalue="Application.CountingElements" />
+        <item itemvalue="Application.BestTimeToBuyAndSellStock" />
+        <item itemvalue="Application.GroupAnagrams" />
+        <item itemvalue="Application.MoveZeroes" />
+        <item itemvalue="Application.StringReverseUsingRecursion" />
       </list>
     </recent_temporary>
   </component>
@@ -160,58 +174,62 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="263" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1584445112671" />
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1585562618778">
+    <state width="396" height="438" key="DebuggerActiveHint" timestamp="1586187782063">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1585562618778" />
-    <state width="1237" height="203" key="GridCell.Tab.0.bottom" timestamp="1585556387583">
+    <state width="396" height="438" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1586187782063" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1586173022330">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="203" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585556387583" />
-    <state width="1237" height="203" key="GridCell.Tab.0.center" timestamp="1585556387582">
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1586173022330" />
+    <state width="1237" height="203" key="GridCell.Tab.0.bottom" timestamp="1586270794699">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="203" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585556387582" />
-    <state width="1237" height="203" key="GridCell.Tab.0.left" timestamp="1585556387582">
+    <state width="1237" height="203" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586270794699" />
+    <state width="1237" height="203" key="GridCell.Tab.0.center" timestamp="1586270794699">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="203" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585556387582" />
-    <state width="1237" height="203" key="GridCell.Tab.0.right" timestamp="1585556387582">
+    <state width="1237" height="203" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586270794699" />
+    <state width="1237" height="203" key="GridCell.Tab.0.left" timestamp="1586270794699">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="203" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585556387582" />
-    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1585553125236">
+    <state width="1237" height="203" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586270794699" />
+    <state width="1237" height="203" key="GridCell.Tab.0.right" timestamp="1586270794699">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585553125236" />
-    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1585553125236">
+    <state width="1237" height="203" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586270794699" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1586188156321">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1585553125236" />
-    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1585553125236">
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586188156321" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1586188156321">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1585553125236" />
-    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1585553125236">
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1586188156321" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1586188156321">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1585553125236" />
-    <state x="144" y="0" key="SettingsEditor" timestamp="1585199380235">
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1586188156321" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1586188156321">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1585199380235" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1586188156321" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1585586434483">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1585586434483" />
     <state x="348" y="167" key="com.intellij.ide.util.TipDialog" timestamp="1584429665996">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="348" y="167" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1584429665996" />
-    <state x="0" y="0" width="609" height="680" key="find.popup" timestamp="1584440716569">
+    <state x="0" y="0" width="609" height="680" key="find.popup" timestamp="1585809764941">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="0" y="0" width="609" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1584440716569" />
-    <state x="91" y="0" key="new project wizard" timestamp="1585199448484">
+    <state x="0" y="0" width="609" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1585809764941" />
+    <state x="91" y="0" key="new project wizard" timestamp="1585586531140">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1585199448484" />
+    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1585586531140" />
     <state x="297" y="151" key="run.anything.popup" timestamp="1584518149978">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -222,6 +240,15 @@
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1585201352519" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/adobe/program/leetcode/GroupAnagrams.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="subStr.indexOf(ch)" language="JAVA" />
