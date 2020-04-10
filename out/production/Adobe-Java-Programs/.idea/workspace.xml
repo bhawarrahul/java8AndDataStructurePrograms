@@ -4,7 +4,6 @@
     <list default="true" id="0354b28e-c519-4b8b-8d69-9653fdcb2303" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/com/adobe/program/leetcode/BackspaceStringCompare.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/adobe/program/leetcode/MiddleOfTheLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adobe/program/leetcode/MinStackExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/adobe/program/leetcodestudy/ReverseNumber.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/adobe/program/leetcodestudy/SwapNodesInPairs.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/adobe/program/youtubevideo/JavaYoutubeDownloader.java" afterDir="false" />
@@ -48,7 +47,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.SwapNodesInPairs">
+  <component name="RunManager" selected="Application.JavaYoutubeDownloader">
     <configuration name="BackspaceStringCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.adobe.program.leetcode.BackspaceStringCompare" />
       <module name="Adobe-Java-Programs" />
@@ -88,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinStackExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.adobe.program.leetcode.MinStackExample" />
+    <configuration name="ReverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.adobe.program.leetcodestudy.ReverseNumber" />
       <module name="Adobe-Java-Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.adobe.program.leetcode.*" />
+          <option name="PATTERN" value="com.adobe.program.leetcodestudy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SwapNodesInPairs" />
-        <item itemvalue="Application.MinStackExample" />
         <item itemvalue="Application.JavaYoutubeDownloader" />
         <item itemvalue="Application.BackspaceStringCompare" />
+        <item itemvalue="Application.SwapNodesInPairs" />
         <item itemvalue="Application.MiddleOfTheLinkedList" />
+        <item itemvalue="Application.ReverseNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -186,22 +185,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1586525281724" />
-    <state width="1237" height="203" key="GridCell.Tab.0.bottom" timestamp="1586533964584">
+    <state width="1237" height="203" key="GridCell.Tab.0.bottom" timestamp="1586525021337">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="203" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586533964584" />
-    <state width="1237" height="203" key="GridCell.Tab.0.center" timestamp="1586533964583">
+    <state width="1237" height="203" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586525021337" />
+    <state width="1237" height="203" key="GridCell.Tab.0.center" timestamp="1586525021336">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="203" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586533964583" />
-    <state width="1237" height="203" key="GridCell.Tab.0.left" timestamp="1586533964583">
+    <state width="1237" height="203" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586525021336" />
+    <state width="1237" height="203" key="GridCell.Tab.0.left" timestamp="1586525021336">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="203" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586533964583" />
-    <state width="1237" height="203" key="GridCell.Tab.0.right" timestamp="1586533964583">
+    <state width="1237" height="203" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586525021336" />
+    <state width="1237" height="203" key="GridCell.Tab.0.right" timestamp="1586525021337">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="203" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586533964583" />
+    <state width="1237" height="203" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586525021337" />
     <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1586446830406">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -250,6 +249,16 @@
           <url>file://$PROJECT_DIR$/src/com/adobe/program/leetcode/GroupAnagrams.java</url>
           <line>27</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/adobe/program/leetcodestudy/SwapNodesInPairs.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/adobe/program/leetcode/BackspaceStringCompare.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
