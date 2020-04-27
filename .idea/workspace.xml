@@ -2,15 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0354b28e-c519-4b8b-8d69-9653fdcb2303" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/adobe/program/leetcode/BackspaceStringCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adobe/program/leetcode/MiddleOfTheLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adobe/program/leetcode/MinStackExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adobe/program/leetcodestudy/ReverseNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adobe/program/leetcodestudy/SwapNodesInPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adobe/program/youtubevideo/JavaYoutubeDownloader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Adobe-Java-Programs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Adobe-Java-Programs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Adobe-Java-Programs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Adobe-Java-Programs/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Adobe-Java-Programs/Adobe-Java-Programs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Adobe-Java-Programs/Adobe-Java-Programs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Adobe-Java-Programs/com/adobe/program/example/FindPairOfTwoNumberMatchGivenSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Adobe-Java-Programs/com/adobe/program/example/FindPairOfTwoNumberMatchGivenSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Adobe-Java-Programs/com/adobe/program/java8/ListOfStringSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Adobe-Java-Programs/com/adobe/program/java8/ListOfStringSorting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Adobe-Java-Programs/src/com/adobe/program/example/FindPairOfTwoNumberMatchGivenSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Adobe-Java-Programs/src/com/adobe/program/example/FindPairOfTwoNumberMatchGivenSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Adobe-Java-Programs/src/com/adobe/program/java8/ListOfStringSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Adobe-Java-Programs/src/com/adobe/program/java8/ListOfStringSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adobe/program/example/FindPairOfTwoNumberMatchGivenSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adobe/program/example/FindPairOfTwoNumberMatchGivenSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adobe/program/example/StaticDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adobe/program/example/StaticDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adobe/program/java8/ListOfStringSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adobe/program/java8/ListOfStringSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adobe/program/leetcode/BitwiseAndNumbersRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adobe/program/leetcode/BitwiseAndNumbersRange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adobe/program/leetcode/ContiguousArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adobe/program/leetcode/ContiguousArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adobe/program/leetcode/DiameterOfBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adobe/program/leetcode/DiameterOfBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adobe/program/leetcode/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adobe/program/leetcode/LRUCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adobe/program/leetcode/LastStoneWeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adobe/program/leetcode/LastStoneWeight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adobe/program/leetcode/PerformStringShifts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adobe/program/leetcode/PerformStringShifts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adobe/program/leetcode/ValidParenthesisString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adobe/program/leetcode/ValidParenthesisString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adobe/program/leetcodestudy/PascalsTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adobe/program/leetcodestudy/PascalsTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adobe/program/searching/ListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adobe/program/searching/ListExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,15 +54,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/vget/xstream-1.4.9.jar!/" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/espn-client/april2020/fan-product-api" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.SwapNodesInPairs">
-    <configuration name="BackspaceStringCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.adobe.program.leetcode.BackspaceStringCompare" />
+  <component name="RunManager" selected="Application.ListOfStringSorting">
+    <configuration name="BitwiseAndNumbersRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.adobe.program.leetcode.BitwiseAndNumbersRange" />
       <module name="Adobe-Java-Programs" />
       <extension name="coverage">
         <pattern>
@@ -62,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaYoutubeDownloader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.adobe.program.youtubevideo.JavaYoutubeDownloader" />
+    <configuration name="FindPairOfTwoNumberMatchGivenSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.adobe.program.example.FindPairOfTwoNumberMatchGivenSum" />
       <module name="Adobe-Java-Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.adobe.program.youtubevideo.*" />
+          <option name="PATTERN" value="com.adobe.program.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MiddleOfTheLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.adobe.program.leetcode.MiddleOfTheLinkedList" />
+    <configuration name="ListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.adobe.program.searching.ListExample" />
       <module name="Adobe-Java-Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.adobe.program.leetcode.*" />
+          <option name="PATTERN" value="com.adobe.program.searching.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinStackExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.adobe.program.leetcode.MinStackExample" />
+    <configuration name="ListOfStringSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.adobe.program.java8.ListOfStringSorting" />
       <module name="Adobe-Java-Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.adobe.program.leetcode.*" />
+          <option name="PATTERN" value="com.adobe.program.java8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwapNodesInPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.adobe.program.leetcodestudy.SwapNodesInPairs" />
+    <configuration name="StaticDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.adobe.program.example.StaticDemo" />
       <module name="Adobe-Java-Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.adobe.program.leetcodestudy.*" />
+          <option name="PATTERN" value="com.adobe.program.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SwapNodesInPairs" />
-        <item itemvalue="Application.MinStackExample" />
-        <item itemvalue="Application.JavaYoutubeDownloader" />
-        <item itemvalue="Application.BackspaceStringCompare" />
-        <item itemvalue="Application.MiddleOfTheLinkedList" />
+        <item itemvalue="Application.ListOfStringSorting" />
+        <item itemvalue="Application.ListExample" />
+        <item itemvalue="Application.BitwiseAndNumbersRange" />
+        <item itemvalue="Application.FindPairOfTwoNumberMatchGivenSum" />
+        <item itemvalue="Application.StaticDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -166,10 +179,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="400" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1584433111606" />
-    <state x="446" y="24" key="#com.intellij.ide.util.MemberChooser" timestamp="1585504557445">
+    <state x="446" y="24" key="#com.intellij.ide.util.MemberChooser" timestamp="1587704317662">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="446" y="24" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1585504557445" />
+    <state x="446" y="24" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1587704317662" />
     <state x="358" y="59" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1585201502424">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -178,58 +191,58 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="263" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1584445112671" />
-    <state width="433" height="438" key="DebuggerActiveHint" timestamp="1586364958427">
+    <state width="433" height="438" key="DebuggerActiveHint" timestamp="1587630643514">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="433" height="438" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1586364958427" />
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1586525281724">
+    <state width="433" height="438" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1587630643514" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1587447987644">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1586525281724" />
-    <state width="1237" height="203" key="GridCell.Tab.0.bottom" timestamp="1586533964584">
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1587447987644" />
+    <state width="1237" height="203" key="GridCell.Tab.0.bottom" timestamp="1587755622176">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="203" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586533964584" />
-    <state width="1237" height="203" key="GridCell.Tab.0.center" timestamp="1586533964583">
+    <state width="1237" height="203" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587755622176" />
+    <state width="1237" height="203" key="GridCell.Tab.0.center" timestamp="1587755622176">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="203" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586533964583" />
-    <state width="1237" height="203" key="GridCell.Tab.0.left" timestamp="1586533964583">
+    <state width="1237" height="203" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587755622176" />
+    <state width="1237" height="203" key="GridCell.Tab.0.left" timestamp="1587755622176">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="203" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586533964583" />
-    <state width="1237" height="203" key="GridCell.Tab.0.right" timestamp="1586533964583">
+    <state width="1237" height="203" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587755622176" />
+    <state width="1237" height="203" key="GridCell.Tab.0.right" timestamp="1587755622176">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="203" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586533964583" />
-    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1586446830406">
+    <state width="1237" height="203" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587755622176" />
+    <state width="1237" height="129" key="GridCell.Tab.1.bottom" timestamp="1587634691138">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586446830406" />
-    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1586446830406">
+    <state width="1237" height="129" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587634691138" />
+    <state width="1237" height="129" key="GridCell.Tab.1.center" timestamp="1587634691138">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1586446830406" />
-    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1586446830406">
+    <state width="1237" height="129" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1587634691138" />
+    <state width="1237" height="129" key="GridCell.Tab.1.left" timestamp="1587634691138">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1586446830406" />
-    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1586446830406">
+    <state width="1237" height="129" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1587634691138" />
+    <state width="1237" height="129" key="GridCell.Tab.1.right" timestamp="1587634691138">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1586446830406" />
-    <state x="144" y="0" key="SettingsEditor" timestamp="1585586434483">
+    <state width="1237" height="129" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1587634691138" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1586536015885">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1585586434483" />
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1586536015885" />
     <state x="348" y="167" key="com.intellij.ide.util.TipDialog" timestamp="1584429665996">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="348" y="167" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1584429665996" />
-    <state x="0" y="0" width="609" height="680" key="find.popup" timestamp="1585809764941">
+    <state x="0" y="0" width="612" height="680" key="find.popup" timestamp="1587704329542">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="0" y="0" width="609" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1585809764941" />
+    <state x="0" y="0" width="612" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1587704329542" />
     <state x="91" y="0" key="new project wizard" timestamp="1585586531140">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -238,10 +251,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1584518149978" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1586443230428">
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1586876077205">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1586443230428" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1586876077205" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -251,11 +264,18 @@
           <line>27</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/adobe/program/example/FindPairOfTwoNumberMatchGivenSum.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="subStr.indexOf(ch)" language="JAVA" />
+        <watch expression="shift[0]" language="JAVA" />
+        <watch expression="nums[i] + nums[j]" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>

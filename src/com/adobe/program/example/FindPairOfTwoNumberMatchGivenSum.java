@@ -36,7 +36,22 @@ public class FindPairOfTwoNumberMatchGivenSum {
                     System.out.println("val13: " + input[i] + " val23: " + input[j]);
 
         getPairs(input.length, 6, input);
-
+    // ----
+//        int[] nums = {1,1,1};
+//        int k = 2;
+        int[] nums = {1,2,3};
+        int k = 3;
+        System.out.println("Count: "+ new FindPairOfTwoNumberMatchGivenSum().subarraySum(nums,k));
+    }
+    public int subarraySum(int[] nums, int k) {
+        int count =0;
+        Map<Integer, Integer> hm = new HashMap<>();
+        for (int i = 0; i < nums.length; i++) {
+            if (hm.get(k - nums[i]) != null)
+                count++;
+            hm.put(nums[i], k - nums[i]);
+        }
+        return count;
     }
 
     static void getPairs(int n, int sum, Integer[] arr) {

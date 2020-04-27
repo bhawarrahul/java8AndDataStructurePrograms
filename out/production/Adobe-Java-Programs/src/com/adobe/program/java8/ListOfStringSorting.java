@@ -13,5 +13,6 @@ public class ListOfStringSorting {
 
         Collections.sort(list, (str1, str2) -> str1.length() - str2.length());
         System.out.println("After sort by Length: " + list);
+        list.stream().forEach(System.out::println);
     }
 }
